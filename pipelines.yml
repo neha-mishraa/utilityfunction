@@ -2,7 +2,7 @@ resources:
   - name: vijay_pipe
     type: GitRepo
     configuration:
-      gitProvider: vijay
+      gitProvider: github_neha
       path: neha-mishraa/utilityfunction           
       
 pipelines:

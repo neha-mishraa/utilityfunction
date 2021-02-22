@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: vijay
-      path: vijayreddy1991/utilityfunction           
+      path: neha-mishraa/utilityfunction           
       
 pipelines:
   - name: vijay_utilityfuction

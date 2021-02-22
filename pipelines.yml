@@ -13,7 +13,7 @@ pipelines:
         configuration:
 #           nodePool: u18-static
           integrations:
-            - name: vijay
+            - name: github_neha
           inputResources:
             - name: vijay_pipe
             
@@ -76,7 +76,7 @@ pipelines:
         configuration:
 #           nodePool: u18-static        
           integrations:
-            - name: vijay
+            - name: github_neha
           inputSteps:
             - name: utilityFunctionadding
           inputResources:
@@ -99,7 +99,7 @@ pipelines:
         configuration:
 #           nodePool: u18-static        
           integrations:
-            - name: vijay
+            - name: github_neha
           inputResources:
             - name: vijay_pipe
           inputSteps:
